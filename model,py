@@ -1,0 +1,7 @@
+def totalbil(bilamount ,tip):
+    total=bilamount * (1+0.01*tip)
+    print("total is ",total)
+
+
+
+totalbil(150,20)
